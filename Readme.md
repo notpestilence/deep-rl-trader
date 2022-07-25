@@ -153,10 +153,10 @@ Note that we're adding `%%timeit` preceding every cell to underline how **quick*
 
 The data should take in the shape like this; what's important is the column name and the datatype of each column. Make sure to convert what's considered a date/time to datetime type.
 **Sample data for model only:**
-![Sample data](https://github.com/notpestilence/deep_rl_trader/blob/master/sample_data.png)
+![Sample data](sample_data.png)
 
 **Sample data for entire notebook:**
-![Sample data for notebook](https://github.com/notpestilence/deep_rl_trader/blob/master/sample_data_notebook.png)
+![Sample data for notebook](sample_data_notebook.png)
 
 For symbol, it can take any transaction representation you want. USDTALICE, IDRUSD, etc.
 
