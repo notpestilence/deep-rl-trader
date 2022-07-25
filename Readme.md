@@ -298,7 +298,7 @@ def create_model(shape, nb_actions):
 ### Inital Result
 
 #### Trade History : Buy (green) Sell (red)
-![trade](https://github.com/notpestilence/deep_rl_trader/blob/master/trade_sample.png)  
+![trade](trade_sample.png)  
 
 #### Cumulative Return, Max Drawdown Period (red)
 ![cum_return](https://github.com/miroblog/deep_rl_trader/blob/master/png/cum_return.png)
